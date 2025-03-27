@@ -7,7 +7,7 @@ For the full documentation, refer to the `Github Pages Website
 
 ======================================================================
 
-PandasSchema is a module for validating tabulated data, such as CSVs
+PandasSchema is a module for validating tabular data, such as CSVs
 (Comma Separated Value files), and TSVs (Tab Separated Value files).
 It uses the incredibly powerful data analysis tool Pandas to do so
 quickly and efficiently.
